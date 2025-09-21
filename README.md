@@ -1,1 +1,1 @@
-# cs50x-weeks
+# cs50
